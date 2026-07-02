@@ -31,12 +31,12 @@
         }
     ],
     "download": "https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.30.0-Draft/LunaMultiplayer-Client-Release.zip",
-    "download_size": 1109044,
+    "download_size": 1109043,
     "download_hash": {
-        "sha256": "E9D55813A99DD1839D5F60D291BB3CF61E652067757E1695194D3C262890F9CF"
+        "sha256": "EC65431CFC43C640B6C548DB3B9BBDE61D0A1F545D92FEC8A856DFEA84125597"
     },
     "download_content_type": "application/zip",
     "install_size": 1594184,
-    "release_date": "2026-06-02T03:38:00Z",
+    "release_date": "2026-07-02T17:36:07Z",
     "x_generated_by": "netkan"
 }
